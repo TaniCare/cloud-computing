@@ -1,0 +1,10 @@
+
+ACCESS_TOKEN_SECRET= # Secret key untuk ACCESS TOKEN (digunakan untuk mengenkripsi dan memvalidasi token akses)
+ACCESS_TOKEN_EXPIRY=1200  # Waktu kedaluwarsa ACCESS TOKEN dalam detik
+REF_TOKEN_SECRET= # Secret key untuk REFRESH TOKEN (digunakan untuk mengenkripsi dan memvalidasi token refresh)
+REF_TOKEN_EXPIRY=86400 # Waktu kedaluwarsa REFRESH TOKEN dalam detik 
+
+INS_NAME= #Replace with Instance Name Cloud SQL
+DB_NAME= # Replace with your DB name
+DB_USER=root # Replace with your DB user
+DB_PASSWORD= #add your DB password here

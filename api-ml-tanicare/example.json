@@ -1,0 +1,137 @@
+{
+    "crops": {
+        "potato": {
+            "diseases": [
+                {
+                    "disease_id": "Potato__early_blight",
+                    "name": {
+                        "scientific": "Alternaria solani",
+                        "english": "Potato Early Blight",
+                        "indonesian": "Bercak Daun Awal Kentang"
+                    },
+                    "detection": {
+                        "visual_symptoms": [
+                            "Bercak coklat gelap berbentuk lingkaran",
+                            "Pola cincin konsentris",
+                            "Infeksi pada daun bagian bawah",
+                            "Tepi daun menguning hingga coklat"
+                        ]
+                    },
+                    "treatment": {
+                        "immediate_actions": [
+                            "Isolasi tanaman yang terinfeksi",
+                            "Bersihkan area sekitar",
+                            "Hentikan penyiraman dari atas"
+                        ],
+                        "application_method": "Semprot daun dengan obat",
+                        "medicines": [
+                            {
+                                "name": "Dithane M-45",
+                                "purchase_links": [
+                                    "https://id.shp.ee/RecSGkj",
+                                    "https://id.shp.ee/d2oH7aW",
+                                    "https://tokopedia.link/28nbDOw27Ob"
+                                ]
+                            },
+                            {
+                                "name": "Score 250 EC",
+                                "purchase_links": [
+                                    "https://id.shp.ee/gLSbzdd",
+                                    "https://tokopedia.link/bGXgs6r27Ob",
+                                    "https://tokopedia.link/Ejkzf9t27Ob"
+                                ]
+                            },
+                            {
+                                "name": "Celerity 720",
+                                "purchase_links": [
+                                    "https://id.shp.ee/bZEoufh"
+                                ]
+                            },
+                            {
+                                "name": "Amistar Top",
+                                "purchase_links": [
+                                    "https://id.shp.ee/vSz33HL",
+                                    "https://tokopedia.link/iinCQNi37Ob",
+                                    "https://tokopedia.link/mvN3Rhk37Ob"
+                                ]
+                            },
+                            {
+                                "name": "Curzate M",
+                                "purchase_links": [
+                                    "https://tokopedia.link/ide03Rn37Ob",
+                                    "https://id.shp.ee/sYYKHoo",
+                                    "https://id.shp.ee/e5hope8"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "disease_id": "Potato__late_blight",
+                    "name": {
+                        "scientific": "Phytophthora infestans",
+                        "english": "Potato Late Blight",
+                        "indonesian": "Busuk Daun Lanjut Kentang"
+                    },
+                    "detection": {
+                        "visual_symptoms": [
+                            "Bercak daun seperti terendam air",
+                            "Pertumbuhan jamur putih di bawah daun",
+                            "Kerusakan daun yang cepat",
+                            "Area nekrotik coklat tua hingga hitam"
+                        ]
+                    },
+                    "treatment": {
+                        "immediate_actions": [
+                            "Buang dan musnahkan bagian tanaman yang terinfeksi",
+                            "Tingkatkan jarak antar tanaman untuk sirkulasi udara yang lebih baik",
+                            "Gunakan irigasi tetes sebagai pengganti penyiraman dari atas"
+                        ],
+                        "application_method": "Semprot daun dengan obat",
+                        "medicines": [
+                            {
+                                "name": "Ridomil Gold MZ 64 WG",
+                                "purchase_links": [
+                                    "https://id.shp.ee/xqra6mD",
+                                    "https://id.shp.ee/kTvw9jf",
+                                    "https://tokopedia.link/HWKPH9P37Ob"
+                                ]
+                            },
+                            {
+                                "name": "Previcur-N 722 SL",
+                                "purchase_links": [
+                                    "https://tokopedia.link/PsPInl237Ob",
+                                    "https://id.shp.ee/CbVhUtg",
+                                    "https://id.shp.ee/ixdDBeW"
+                                ]
+                            },
+                            {
+                                "name": "Acrobat 50 WP",
+                                "purchase_links": [
+                                    "https://id.shp.ee/EAUPyWm",
+                                    "https://id.shp.ee/wDNrL45",
+                                    "https://tokopedia.link/Dmvm2Fp47Ob"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "healthy_maintenance": {
+                "recommendations": [
+                    "Pertahankan pH tanah 5,5-6,5",
+                    "Kelembaban tanah konsisten (70-80% kapasitas lapangan)",
+                    "Pupuk NPK seimbang (rasio 5-10-10)",
+                    "Rotasi tanaman setiap 3-4 musim",
+                    "Pemantauan nutrisi tanah setiap kuartal"
+                ],
+                "optimal_conditions": {
+                    "temperature": "15-21°C",
+                    "humidity": "60-70%",
+                    "sunlight": "6-8 jam",
+                    "soil_type": "Tanah liat berpasir dengan drainase baik"
+                }
+            }
+        }
+    }
+}
