@@ -1,4 +1,4 @@
-# API REGIS-LOGIN - TANI CARE
+# API REGIS-LOGIN - Tani Care
 
 API ini menyediakan endpoint untuk registrasi, login, dan pengelolaan profil pengguna. Anda bisa menggunakan API ini untuk mengelola sesi autentikasi pengguna dengan cara yang sederhana.
 
