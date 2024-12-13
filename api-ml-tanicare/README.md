@@ -1,4 +1,4 @@
-# MACHINE LEARNING API - TaniCare
+# MACHINE LEARNING API - Tani Care
 
 API untuk aplikasi prediksi berbasis machine learning yang digunakan untuk memproses gambar dan memberikan hasil prediksi terkait dengan data pertanian.
 
