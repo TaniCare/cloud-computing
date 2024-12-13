@@ -1,6 +1,4 @@
----
-
-# API REGIS-LOGIN
+# API REGIS-LOGIN - TANI CARE
 
 API ini menyediakan endpoint untuk registrasi, login, dan pengelolaan profil pengguna. Anda bisa menggunakan API ini untuk mengelola sesi autentikasi pengguna dengan cara yang sederhana.
 
@@ -15,7 +13,7 @@ API ini menyediakan endpoint untuk registrasi, login, dan pengelolaan profil pen
 2. **Masuk ke Direktori API**
    Setelah berhasil meng-clone repository, masuk ke folder `api-logreg` dengan perintah:
    ```bash
-   cd tani-care/api-logreg
+   cd tani-care/api-logreg-tanicare
    ```
 
 3. **Buat File `.env`**
@@ -162,5 +160,3 @@ Endpoint untuk memperbarui token autentikasi (refresh token). Pengguna harus men
 ## Catatan
 - Pastikan untuk selalu menjaga kerahasiaan `JWT_Token_Here` dan `JWT_Refresh_Token_Here` karena itu digunakan untuk autentikasi pengguna.
 - Anda bisa menggunakan Postman atau alat lainnya untuk melakukan pengujian terhadap API ini.
-
---- 
